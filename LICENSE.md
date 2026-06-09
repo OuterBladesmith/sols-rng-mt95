@@ -1,4 +1,4 @@
-
+hidden Script for sol's rng offers the most advanced sol's rng Script, with auto-heal and silent aim. Perfect for dominating any match.
 
 
 
